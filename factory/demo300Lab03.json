@@ -1,0 +1,9 @@
+{
+	"name": "demo300Lab03",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a03f12d4-7345-4239-bbae-e0257938a9df",
+		"tenantId": "4ad9390e-d344-4977-b71e-e3d63b76ca3c"
+	}
+}
